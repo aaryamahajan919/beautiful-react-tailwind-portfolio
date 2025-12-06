@@ -27,7 +27,7 @@ const projects = [
       "A responsive, user-friendly online store with product catalog, search & filters, shopping cart, secure checkout (payment gateway), user accounts, and an admin dashboard for inventory and order management.",
     image: "/projects/project3.png",
     tags: ["React", "TailwindCSS"],
-    demoUrl: "https://e-shophere-e-commerce-website.vercel.app/",
+    demoUrl: "https://e-shophere-e-commerce-website-git-main-aaryas-projects-2c3d636c.vercel.app?_vercel_share=fi2sY1yRhn7Ug1wAhzQHc976atcfJujc",
     githubUrl: "https://github.com/aaryamahajan919/E-Shophere-E-commerce-website",
   },
 ];
@@ -109,4 +109,5 @@ export const ProjectsSection = () => {
     </section>
   );
 };
+
 
