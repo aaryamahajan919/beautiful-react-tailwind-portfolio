@@ -100,7 +100,7 @@ export const ProjectsSection = () => {
           <a
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
-            href="https://github.com/aaryamahajan919"
+            href="https://github.com/aaryamahajan919?tab=repositories"
           >
             Check My other projects <ArrowRight size={16} />
           </a>
@@ -109,5 +109,6 @@ export const ProjectsSection = () => {
     </section>
   );
 };
+
 
 
