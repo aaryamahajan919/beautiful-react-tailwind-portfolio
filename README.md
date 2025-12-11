@@ -33,7 +33,7 @@
 
 ## 🚀 Introduction
 
-In this tutorial, I built a modern portfolio website using **React**, **TailwindCSS**, **Vite**, and **Lucide Icons**. From dark mode support to responsive animations and deployable project showcases.
+In this project, I built a modern portfolio website using **React**, **TailwindCSS**, **Vite**, and **Lucide Icons**. From dark mode support to responsive animations and deployable project showcases.
 
 ---
 
@@ -119,6 +119,7 @@ Your live website will be hosted on a custom subdomain (e.g. `https://your-name.
 * [Vercel](https://vercel.com/)
 
 ---
+
 
 
 
